@@ -1,0 +1,17 @@
+{
+    "id": 1000132895,
+    "name": "Nicol",
+    "edad": 22,
+    "direction": {
+        "pais": "Colombia",
+        "ciudad": "Bogotá",
+        "barrio": "Bosa"
+    },
+    "hobbies": [
+        "Dibujar",
+        "Ejercicio",
+        "Videojuegos",
+        "Aprender"
+    ],
+    "esCasado": false
+}
