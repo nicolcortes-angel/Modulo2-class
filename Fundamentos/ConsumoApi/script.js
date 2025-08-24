@@ -36,9 +36,11 @@ const mostarInfo = (persona) => {
         <p class="miEdad">Edad: ${persona.edad}</p>
         <div class="misHobbies">
             <h3>Hobbies</h3>
+            <ul>
             <li>${persona.hobbies[0]}</li>
             <li>${persona.hobbies[1]}</li>
             <li>${persona.hobbies[2]}</li>
+            </ul>
         </div>
     `
 
